@@ -189,3 +189,10 @@ Prueba de conectividad al Fortigate-ST:
 **Probar conectividad entre redes LAN mediante trace-route**
 
 <img width="627" height="249" alt="image" src="https://github.com/user-attachments/assets/5b3e90b4-895a-4772-bc54-7ad547392357" />
+
+-------
+# VIDEO
+------
+
+https://www.youtube.com/watch?v=qdU17G2VZMI
+
