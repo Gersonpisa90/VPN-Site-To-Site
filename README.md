@@ -74,7 +74,32 @@ para esta use una ip publica de claro real
 
 para esta use una ip publica de claro real
 
+<img width="626" height="461" alt="image" src="https://github.com/user-attachments/assets/9df634f0-7b4c-41d9-a2b1-d6d3223848cc" />
 
 
+
+### Conectividad entre Fortigate-SD to Fortigate-ST
+
+Para hacer esto tuve que usar una ruta estatica:
+
+
+**Fortigate-ST**
+
+<img width="538" height="301" alt="image" src="https://github.com/user-attachments/assets/f7dc0093-2dbc-49ad-8880-0b8fa7602101" />
+
+
+Prueba de conectividad al Fortigate-SD:
+
+<img width="554" height="291" alt="image" src="https://github.com/user-attachments/assets/0227da9a-6561-4052-8e78-f13b7cf75ee4" />
+
+
+**Fortigate-SD**
+
+<img width="587" height="363" alt="image" src="https://github.com/user-attachments/assets/00b57189-094d-4eac-9711-947c179029af" />
+
+Prueba de conectividad al Fortigate-ST:
+
+
+<img width="553" height="320" alt="image" src="https://github.com/user-attachments/assets/2b845dd9-f95e-4503-ba39-9a410a710384" />
 
 
