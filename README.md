@@ -135,21 +135,46 @@ Prueba de conectividad al Fortigate-ST:
 
 <img width="553" height="320" alt="image" src="https://github.com/user-attachments/assets/2b845dd9-f95e-4503-ba39-9a410a710384" />
 
+-----
+## Configuracion de la VPN-SITE-TO-SITE en el FORTIGATE-SD
+-----
+
+<img width="630" height="477" alt="image" src="https://github.com/user-attachments/assets/744498cf-0bb2-4644-b77d-c767f1262f27" />
+
+
+<img width="644" height="212" alt="image" src="https://github.com/user-attachments/assets/7d98fc37-0203-405a-9319-37d007e9079a" />
+
+
+<img width="654" height="249" alt="image" src="https://github.com/user-attachments/assets/18ea49c5-91db-4257-9fa7-835fadec8b11" />
+
+
+<img width="633" height="89" alt="image" src="https://github.com/user-attachments/assets/697443d5-e8d1-4bf0-afe4-3ab19346ef87" />
 
 
 
+<img width="663" height="370" alt="image" src="https://github.com/user-attachments/assets/10f8c33b-93da-4608-9cf7-aff539144e4b" />
 
 
+<img width="643" height="460" alt="image" src="https://github.com/user-attachments/assets/5a20aca1-7a15-4ed1-a7a5-29b38e78a8fb" />
 
 
+<img width="1487" height="201" alt="image" src="https://github.com/user-attachments/assets/3720cbca-503b-46bb-904e-a88f586558e7" />
 
+-----
+## Configuracion de la VPN-SITE-TO-SITE en el FORTIGATE-ST
+-----
 
+<img width="643" height="482" alt="image" src="https://github.com/user-attachments/assets/a02a5a0f-1b2c-43c2-9510-24459f9d1e18" />
 
+<img width="639" height="208" alt="image" src="https://github.com/user-attachments/assets/9db70907-a0e2-4585-9663-d8fc8f845647" />
 
+<img width="638" height="252" alt="image" src="https://github.com/user-attachments/assets/d721dc1e-6b1a-4214-878d-7d3cbccf1e96" />
 
+<img width="640" height="452" alt="image" src="https://github.com/user-attachments/assets/3a60ec41-2b15-458b-9d4b-e4a818dc5b02" />
 
+<img width="649" height="476" alt="image" src="https://github.com/user-attachments/assets/5d77fd0c-8550-4ec1-9395-f139c89adbca" />
 
-
+<img width="1596" height="212" alt="image" src="https://github.com/user-attachments/assets/de370396-cd72-43b8-b316-1f56c968cb8c" />
 
 
 
