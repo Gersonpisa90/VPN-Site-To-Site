@@ -176,11 +176,16 @@ Prueba de conectividad al Fortigate-ST:
 
 <img width="1596" height="212" alt="image" src="https://github.com/user-attachments/assets/de370396-cd72-43b8-b316-1f56c968cb8c" />
 
+# REQUISITOS PARA FINALIZAR EL LAB
+--------
+
+**Configurar comunicación entre LANs mediante enlaces VPN Client-To-Site**
+
+<img width="850" height="457" alt="image" src="https://github.com/user-attachments/assets/75809271-f585-4ba2-b8ff-0ffc2da80128" />
 
 
+<img width="850" height="469" alt="image" src="https://github.com/user-attachments/assets/09a8ffd1-4644-4584-b643-7337077d7949" />
 
-
-no 
-
+**Probar conectividad entre redes LAN mediante trace-route**
 
 <img width="627" height="249" alt="image" src="https://github.com/user-attachments/assets/5b3e90b4-895a-4772-bc54-7ad547392357" />
