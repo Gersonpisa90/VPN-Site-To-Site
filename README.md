@@ -54,6 +54,12 @@ Para configurar esta red usa el FortiGate como servidor DHCP, y el direccionamie
 
 <img width="630" height="454" alt="image" src="https://github.com/user-attachments/assets/a889ecf7-eba1-452a-a893-b4abc9bfdc43" />
 
+
+Prueba de conectividad de una pc al Fortigate-SD:
+
+
+
+
 ### RED Santiago
 
 Para configurar esta red usa el FortiGate como servidor DHCP, y el direccionamiento que use fue 10.15.30.0/28
@@ -103,3 +109,26 @@ Prueba de conectividad al Fortigate-ST:
 <img width="553" height="320" alt="image" src="https://github.com/user-attachments/assets/2b845dd9-f95e-4503-ba39-9a410a710384" />
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+no 
+
+
+<img width="627" height="249" alt="image" src="https://github.com/user-attachments/assets/5b3e90b4-895a-4772-bc54-7ad547392357" />
