@@ -40,7 +40,7 @@ Red LAN: 10.15.30.0/28
 ------------------------------
 
 
-## Direccionamieto
+## Direccionamieto en Equipos
 -----
 
 ### RED Santo Domingo
@@ -58,8 +58,13 @@ Para configurar esta red usa el FortiGate como servidor DHCP, y el direccionamie
 Prueba de conectividad de una pc al Fortigate-SD:
 
 
+<img width="512" height="217" alt="image" src="https://github.com/user-attachments/assets/256eaace-55ba-4350-8088-aa52a3713add" />
 
 
+
+
+
+-------
 ### RED Santiago
 
 Para configurar esta red usa el FortiGate como servidor DHCP, y el direccionamiento que use fue 10.15.30.0/28
@@ -70,11 +75,28 @@ Para configurar esta red usa el FortiGate como servidor DHCP, y el direccionamie
 
 <img width="699" height="345" alt="image" src="https://github.com/user-attachments/assets/1ac2d135-098b-4665-9efb-bae9e966a393" />
 
+
+
+Prueba de conectividad de una pc al Fortigate-ST:
+
+<img width="508" height="204" alt="image" src="https://github.com/user-attachments/assets/33122cf2-1594-4dbb-8747-9de5298e45ff" />
+
+
+-----
+
 ### RED WAN En el Fortigate-SD
 
 para esta use una ip publica de claro real
 
 <img width="676" height="431" alt="image" src="https://github.com/user-attachments/assets/79a2f33c-653d-494e-9241-b08eecb3b8fc" />
+
+Prueba de conectividad con el ISP-CLARO:
+
+<img width="599" height="379" alt="image" src="https://github.com/user-attachments/assets/6451e0ad-8ca1-434f-bfaf-e5a456c7c4d5" />
+
+
+
+-----
 
 ### RED WAN En el Fortigate-ST
 
@@ -82,7 +104,12 @@ para esta use una ip publica de claro real
 
 <img width="626" height="461" alt="image" src="https://github.com/user-attachments/assets/9df634f0-7b4c-41d9-a2b1-d6d3223848cc" />
 
+Prueba de conectividad con el ISP-CLARO:
 
+<img width="571" height="355" alt="image" src="https://github.com/user-attachments/assets/326d46c9-3153-4480-90b4-800f551a4273" />
+
+
+-------
 
 ### Conectividad entre Fortigate-SD to Fortigate-ST
 
