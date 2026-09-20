@@ -5,7 +5,9 @@
 <img width="849" height="699" alt="image" src="https://github.com/user-attachments/assets/df2c12f4-6302-4cfe-a7cc-b73c1c530ec1" />
 
 Basado en la topología de red de la imagen, aquí tienes el esquema de direccionamiento IP organizado en formato Markdown (estilo GitHub):
-Plan de Direccionamiento de Red1. Segmentos WAN (Interconexión ISP)
+Plan de Direccionamiento de Red
+
+1. Segmentos WAN (Interconexión ISP)
 
 | Dispositivo | Interfaz | Dirección IP | Red / Máscara |
 |---|---|---|---|
